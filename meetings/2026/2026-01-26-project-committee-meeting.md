@@ -22,7 +22,7 @@
 - Review and refine the **project selection criteria** based on participant feedback.
 - Explore the concept of a **"stamp of approval"** or certificate for projects meeting PRAGMA standards.
 - Schedule a follow-up discussion on **project maturity, health, and stability metrics** (e.g., ossinsight.io).
-
+- We agreed to a biweekly meeting cadence for now. Invitations for next meeting will be created shortly.
 ---
 
 ## Discussions
