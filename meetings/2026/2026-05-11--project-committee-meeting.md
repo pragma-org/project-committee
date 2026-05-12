@@ -9,7 +9,7 @@
 - Filip Blagojević - Project Committee Chair
 - Eystein Magnus Hansen - Project Commitee Secretary
 - Emmanuel Titi - Project Committee Member
-- Joshua Marchand - Project Committee Member  (excused during meeting)
+- Joshua Marchand - Project Committee Member
 
 ## Key Decisions Made
 - No key decicions made this week.
